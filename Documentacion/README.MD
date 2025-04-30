@@ -1,1 +1,14 @@
-### Aqui van los códigos o proyectos del proyecto. Pueden ser en formato ZIP en el caso que sean más de uno
+## Documentación del Proyecto
+
+En esta carpeta se encuentra la documentación escrita del proyecto, compuesta de los siguientes apartados:
+
+- **Portada:** 
+- **Índice:** 
+- **Introducción:** 
+- **Alcance:** 
+- **Requerimientos:** 
+- **Diagrama Entidad-Relación:** 
+- **Diseño de la Base de Datos:** 
+- **Diagrama Relacional de la Base de Datos:** 
+- **Prototipo de la Aplicación:** 
+- **Análisis de Resultados:**
