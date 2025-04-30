@@ -3,7 +3,7 @@
 
 ### Nombre y Carné de los Integrantes
 - **Roymar Castillo Carvajal** - Carné: 2022045111
-- **Quiriat Mata Araya ** - Carné: 2023379898
+- **Quiriat Mata Araya** - Carné: 2023379898
 
 
 ### Estado del Proyecto
